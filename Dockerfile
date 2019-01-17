@@ -1,4 +1,4 @@
-FROM ethereum/client-go:v1.8.21
+FROM metaco/go-ethereum-static-difficulty:v1.8.21
 
 ADD ./resources ./resources
 
