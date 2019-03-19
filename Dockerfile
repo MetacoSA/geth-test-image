@@ -1,4 +1,4 @@
-FROM metaco/go-ethereum-static-difficulty:v1.9.0-unstable-a4e32a55
+FROM metaco/go-ethereum-static-difficulty:v1.8.23-static-difficulty
 
 ADD ./resources ./resources
 
